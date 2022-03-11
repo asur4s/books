@@ -15,4 +15,4 @@
 
 目前自己制定了大致两个方向：
 - 基础知识：读书、写读书笔记、做思维导图、找相关项目、融合过去学过的知识。
-- 实战能力：Fuzzing（个人爱好）、PR、Code Review、Check-in、test、build、Document、joel 12 条。
+- 实战能力：Fuzzing（个人爱好）、PR、Code Review、Check-in、test、build、Document、joel 12 条、编程之美。主要围绕 Fuzzing（漏洞挖掘），漏洞挖掘是个人爱好，其他东西是能力。
