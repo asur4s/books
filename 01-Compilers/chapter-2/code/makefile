@@ -1,8 +1,10 @@
 
-all:
+all: parser
+	
+parser:
 	javac Parser.java
 
-run:
+runparser:
 	java Parser
 
 
