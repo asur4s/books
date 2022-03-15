@@ -5,8 +5,10 @@
 
 
 2022年：
-- [《编译原理》](./01-Compilers/)
-  - [第2章](./01-Compilers/chapter-2/)
+- 《编译原理》
+  - [2.1 小结](./01-Compilers/2-1.md)
+  - [附录A](./01-Compilers/appendics-1.md)
+  - [回顾与总结](./01-Compilers/README.md)
 
 # 起因
 
