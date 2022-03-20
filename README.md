@@ -6,9 +6,10 @@
 
 2022年：
 - 《编译原理》
-  - [2.1 小结](./01-Compilers/2-1.md)
-  - [2.2 小结](./01-Compilers/2-2.md)
-  - [附录A](./01-Compilers/appendics-1.md)
+  - [2.1 引言](./01-Compilers/2-1.md)
+  - [2.2 语法定义](./01-Compilers/2-2.md)
+  - [2.3 语法制导翻译](./01-Compilers/2-3.md)
+  - [附录 A](./01-Compilers/appendics-1.md)
   - [回顾与总结](./01-Compilers/README.md)
 
 # 起因
