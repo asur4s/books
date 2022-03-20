@@ -11,6 +11,9 @@
   - [2.3 语法制导翻译](./01-Compilers/2-3.md)
   - [附录 A](./01-Compilers/appendics-1.md)
   - [回顾与总结](./01-Compilers/README.md)
+- 《Rust By Example》
+  - [1 Hello World](./02-RustByExample/1.md)
+  - [2 Flow of Control](./02-RustByExample/2.md)
 
 # 起因
 
@@ -20,4 +23,4 @@
 
 目前自己制定了大致两个方向：
 - 基础知识：读书、写读书笔记、做思维导图、找相关项目、融合过去学过的知识。
-- 实战能力：Fuzzing（个人爱好）、PR、Code Review、Check-in、test、build、Document、joel 12 条、编程之美。主要围绕 Fuzzing（漏洞挖掘），漏洞挖掘是个人爱好，其他东西是能力。
+- 实战能力：PR、Code Review、Check-in、test、build、Document、joel 12 条、编程之美。
