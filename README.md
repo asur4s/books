@@ -11,9 +11,16 @@
   - [2.3 语法制导翻译](./01-Compilers/2-3.md)
   - [附录 A](./01-Compilers/appendics-1.md)
   - [回顾与总结](./01-Compilers/README.md)
-- 《Rust By Example》
+- [《Rust By Example》](https://github.com/rust-lang/rust-by-example)
   - [1 Hello World](./02-RustByExample/1.md)
   - [2 Flow of Control](./02-RustByExample/2.md)
+  - [3 Functions](./02-RustByExample/3.md)
+  - Modules
+  - Cargo
+  - Test
+- [《Type Exercise in Rust》](https://github.com/skyzh/type-exercise-in-rust)
+  - 1 Array 和 Array Builder
+  - 2 Scalar 和 ScalarRef
 
 # 起因
 
